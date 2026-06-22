@@ -26,6 +26,12 @@ build/
 .vscode/
 Thumbs.db
 
+# claude code local settings
+.claude/settings.local.json
+
+# packaged submission artifacts
+*.zip
+
 # local data / caches the participant may create
 data/index/
 data/embeddings/

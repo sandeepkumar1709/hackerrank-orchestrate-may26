@@ -1,0 +1,10 @@
+# Pinned at versions verified for this submission.
+numpy>=2.0,<3
+PyYAML>=6.0,<7
+openai>=2.0,<3
+python-dotenv>=1.0,<2
+rank-bm25>=0.2.2,<0.3
+sentence-transformers>=5.0,<6
+tiktoken>=0.7,<1
+tokenizers>=0.20,<1
+transformers>=5.0,<6
